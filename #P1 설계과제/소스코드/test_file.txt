@@ -1,0 +1,8 @@
+Hello
+My name is junhyeong
+i'm studying Operating System.
+Ritchie and Thompson made c.
+Generic under Bar read and write are using Disk Driver.
+Firmware is embedded in H/W.
+Disk Driver is just software.
+Users can connect to I/O by using File System example eFAT, Extent (2022 #5 F/S TermProject.)

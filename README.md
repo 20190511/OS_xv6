@@ -1,5 +1,9 @@
 # OS_xv6
 2022~2023 SSU 운영체제 (홍지만교수님)
+---
+# 2024 OS xv6 설계과제
+## P3 : [MLFQ Scheduler](https://github.com/20190511/OS_xv6/tree/main/%23P3_%EC%84%A4%EA%B3%84%EA%B3%BC%EC%A0%9C_2024_MLFQ%EC%8A%A4%EC%BC%80%EC%A5%B4%EB%9F%AC)
+[24-OS-Project#2-V0.92.pdf](https://github.com/user-attachments/files/17529645/24-OS-Project.2-V0.92.pdf)
 
 ---
 # 2023 OS xv6 설계과제
